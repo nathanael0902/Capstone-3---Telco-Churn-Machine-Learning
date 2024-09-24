@@ -18,6 +18,7 @@ This project's machine learning model is aiming to help in predicting the likeli
 3. The python file to run the deployed model
 4. The README file for the Project
 5. The Telco Customer Churn Dataset
+6. The clean Telco Customer Churn Dataset
 
 
 
